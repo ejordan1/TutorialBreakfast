@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7LwhWq/QQTE5BEpjBE3BVqtQ58HgNq3CfmWxeruSrRqbQwwoUb4WhMBAHMqcgGLW4GuRmoW+7Lhlm4pnXUPJeA==",
+  "success": true,
+  "projectFilePath": "/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/Users/emersonjordan/.nuget/packages/microsoft.aspnetcore.openapi/8.0.4/microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "/Users/emersonjordan/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
