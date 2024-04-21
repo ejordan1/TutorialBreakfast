@@ -1,0 +1,12 @@
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.deps.json
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.sourcelink.json
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.dll
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/refint/BuberBreakfast.Contracts.dll
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/ref/BuberBreakfast.Contracts.dll
