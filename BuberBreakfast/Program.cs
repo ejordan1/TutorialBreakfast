@@ -1,3 +1,5 @@
+using BuberBreakfast.Services.Breakfasts;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,6 +9,13 @@ var builder = WebApplication.CreateBuilder(args);
 {
     builder.Services.AddControllers();
 
+    // every time the application instantiates an object that requests iBreakfastService in the constructor,
+    // then use the breakfast service object as the implementation 
+
+    builder.Services.AddSingleton<IBreakfastService, BreakfastService>();
+    // for add singleton: every time someone requests a ibreakfastservice, use the SAME breakfastService.
+    // also have addscoped: within the lifetime of a single request, 
+    // addtransient: every time requests the interface, create a new breakfastservice object
 }
 
 var app = builder.Build();
