@@ -12,8 +12,19 @@ public class BreakfastService : IBreakfastService
         _breakfasts.Add(breakfast.Id, breakfast);
     }
 
+    public void DeleteBreakfast(Guid id)
+    {
+        _breakfasts.Remove(id);
+    }
+
     public Breakfast GetBreakfast(Guid id)
     {
         return _breakfasts[id];
+    }
+
+    // note: having the id be the key, as well as present in the object is done here
+    public void UpsertBreakfast(Breakfast breakfast)
+    {
+        _breakfasts[breakfast.Id] = breakfast;
     }
 }
