@@ -21,6 +21,7 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 {
+    app.UseExceptionHandler("/error"); // pipeline the request goes through
     app.UseHttpsRedirection();
     app.MapControllers();
     app.Run();

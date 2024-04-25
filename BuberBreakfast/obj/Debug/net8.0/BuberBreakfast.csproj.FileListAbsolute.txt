@@ -31,3 +31,4 @@
 /Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.pdb
 /Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.genruntimeconfig.cache
 /Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/ref/BuberBreakfast.dll
+/Users/emersonjordan/Desktop/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/ErrorOr.dll
